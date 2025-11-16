@@ -1,4 +1,4 @@
-public class rgtrotate {
+public class RightRotate {
     public static void main(String[] args) {
         int num[]={2,3,4,5,6,7,8,9};
         int n=num.length;

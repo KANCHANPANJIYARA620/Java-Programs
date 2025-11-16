@@ -1,5 +1,5 @@
-public class reversecopy {
-    public static void main(String[] args) {
+public class ReverseCopy {
+        public static void main(String[] args) {
         int A[]={2,3,4,6,8,9,15};
         int B[]=new int[7];
         int n=7;

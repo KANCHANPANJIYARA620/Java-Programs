@@ -1,4 +1,4 @@
-public class seclarg {
+public class SecondLarg {
     // Finding Second Largest Element.
     public static void main(String[] args) {
         int Array[]={2,3,5,7,10,9};
